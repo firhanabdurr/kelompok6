@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121917099442",
+    "project_id": "notekelompok6",
+    "storage_bucket": "notekelompok6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121917099442:android:0897f3a7a31be13113a8ab",
+        "android_client_info": {
+          "package_name": "com.kelompokenampam.aplikasinote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121917099442-1r1oof12n16e1i7r07nc6eavk6rf1oan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjLRyQX3FiCYcRiwlZwL_aVlrEv07lej0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121917099442-1r1oof12n16e1i7r07nc6eavk6rf1oan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
