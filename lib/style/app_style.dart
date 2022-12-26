@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class AppStyle{
-  static Color bgColor = Color(0xFFE8F5E9 )
+  static Color bgColor = Color(0xFFE5FCE5);
   static Color mainColor = Color(0xFF43A047);
   static Color accentColor = Color(0xFF1B5E20);
 
