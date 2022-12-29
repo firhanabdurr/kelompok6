@@ -61,4 +61,5 @@ flutter {
 
 depedencies {
     implementation platform('com.google.firebase:firebase-bom:31.1.1')
+    implementation "org.jetbrain.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }

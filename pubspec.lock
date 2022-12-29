@@ -130,7 +130,7 @@ packages:
     source: hosted
     version: "4.5.2"
   firebase_core_web:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: firebase_core_web
       sha256: b2917618cbe75196261621d676a992e05215ce6a70daca5f655794d5a008d369
